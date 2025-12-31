@@ -1,0 +1,41 @@
+/* Style simple et pédagogique */
+body {
+    background-color: #ffffff;
+}
+
+.banniere {
+    background-color: #e7f1ff;
+    border: 2px solid #3b6ea5;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.banniere-image {
+    border: 2px solid #3b6ea5;
+}
+
+.titre-section {
+    color: #2c8b2c;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.liste-livres a {
+    text-decoration: none;
+    color: #2d6cdf;
+}
+
+.liste-livres a:hover {
+    text-decoration: underline;
+}
+
+.disponible {
+    color: green;
+    font-weight: bold;
+}
+
+.indisponible {
+    color: red;
+    font-weight: bold;
+}
